@@ -1,11 +1,10 @@
-/* Reset some basic elements for consistency across browsers */
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* Set a base font and color for the whole app */
 body {
   font-family: 'Helvetica Neue', Arial, sans-serif;
   background-color: #f0f2f5;
